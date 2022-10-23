@@ -1,0 +1,2 @@
+Datetime - 2022-10-23 14:18:23.264727, name - flat_generator, arguments - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}, result - <generator object flat_generator at 0x7fef4b2f67a0>
+Datetime - 2022-10-23 14:18:23.265009, name - sum, arguments - (25, 26), {}, result - 51
